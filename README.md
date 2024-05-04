@@ -1,1 +1,1 @@
-1.yarn add discord.js
+1.yarn install
